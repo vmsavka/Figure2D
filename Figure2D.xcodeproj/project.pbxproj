@@ -68,7 +68,7 @@
 		0F067A4F1D61A4E0008DC70B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0F067A4E1D61A4E0008DC70B /* Figure2D */,
+				0F067A4E1D61A4E0008DC70B * Figure2D */,
 			);
 			name = Products;
 			sourceTree = "<group>";
